@@ -1,0 +1,16 @@
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.exe.config
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.exe
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\bin\Debug\otel_otomasyonu.pdb
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.adminGiris.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.frmadmin.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.home.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.kayitForm.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.musteriler.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.odalar.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.GenerateResource.cache
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.exe
+C:\Users\oykug\OneDrive\Masaüstü\otel_otomasyonu\otel_otomasyonu\obj\Debug\otel_otomasyonu.pdb
